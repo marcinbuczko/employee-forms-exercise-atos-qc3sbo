@@ -1,0 +1,10 @@
+{
+  "US": ["contract", "permanent"],
+  "UK": ["contract", "permanent"],
+  "DE": ["permanent"],
+  "FR": ["permanent"],
+  "NL": ["contract", "permanent"],
+  "PL": ["contract", "permanent"],
+  "IT": ["contract"],
+  "ES": ["contract"]
+}
